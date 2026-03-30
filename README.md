@@ -1,11 +1,8 @@
-
-
 # 👋Hi, I'm Basten Brimah
 <p align="center">
    <img src= "https://raw.githubusercontent.com/Bastenyb/Bastenyb/main/Futuristic%20data%20and%20AI%20design.png"
- width="100%" />
+ alt="Banner" width="1000" height="400" />
 </p>
-
 
 🚀 **Full-Stack Software Developer | Data Analyst | Problem Solver**
 
