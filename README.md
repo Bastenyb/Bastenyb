@@ -100,7 +100,67 @@ Scalable and efficient backend services
 - 🤝 Open-source collaboration  
 
 ---
+## 📈 GitHub Stats
 
+## 📊 GitHub Stats Dashboard
+
+<p align="center">
+
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Bastenyb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=00f7ff&icon_color=00f7ff" height="180"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bastenyb&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=00f7ff" height="180"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bastenyb&theme=tokyonight&hide_border=true&border_radius=12&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bastenyb&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bastenyb&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (VERY COOL)
+
+<p align="center">
+  <img src="https://github.com/Bastenyb/Bastenyb/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 👁 Profile Views Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bastenyb&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+</p>
+
+---
+
+## ⚡ Dev Quote (Auto Refreshing)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 ## 📫 Connect With Me
 
 - 📧 Email: bastenyb@gmail.com
