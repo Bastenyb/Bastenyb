@@ -2,7 +2,8 @@
 
 # 👋 Hi, I'm Basten Brimah
 
-![AI Banner](https://images.unsplash.com/photo-1677442136019-21780ecad995?q=30&w=1000&auto=format&fit=crop)
+![AI Banner](<img src="https://raw.githubusercontent.com/Bastenyb/Bastenyb/main/assets/banner.png" />)
+
 
 🚀 **Full-Stack Software Developer | Data Analyst | Problem Solver**
 
