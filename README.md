@@ -122,8 +122,4 @@ Scalable and efficient backend services
 If you like what I do:  
 👉 Star ⭐ my repositories  
 👉 Follow 🚀 for more projects  
-**Bastenyb/Bastenyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- ⚡ Fun fact: ...
 -->
