@@ -1,8 +1,9 @@
-## Hi there 👋
 
-# 👋 Hi, I'm Basten Brimah
 
-![AI Banner](<img src="https://raw.githubusercontent.com/Bastenyb/Bastenyb/main/assets/banner.png" />)
+# 👋Hi, I'm Basten Brimah
+<p align="center">
+   <img src= "https://raw.githubusercontent.com/Bastenyb/Bastenyb/main/assets/Basten%20Brimah_%20AI%20and%20future%20tech.png" width="100%" />
+</p>
 
 
 🚀 **Full-Stack Software Developer | Data Analyst | Problem Solver**
